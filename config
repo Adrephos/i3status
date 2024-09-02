@@ -68,6 +68,7 @@ battery 1 {
     status_bat = "  "
     status_unk = "  "
     status_full = "  "
+    status_idle = "  "
 }
 
 
